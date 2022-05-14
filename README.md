@@ -5,7 +5,7 @@ Use SciPy and NumPy to analyze rideshare data from January to early May of 2019 
 The project goal was to analyze all the rideshare data from January to early May of 2019 and create compelling visualizations comparing the city types, urban, suburban, and rural.
 
 ## Deliverables:
-Fig 1. is a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban in coral, suburban in light blue, and rural in gold. ![Fig 1.]
+Fig 1. is a bubble chart that showcases the average fare versus the total number of rides with bubble size based on the total number of drivers for each city type, including urban in coral, suburban in light blue, and rural in gold. ![Fig 1.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
 ### Descriptive statistics:
 The total number of rides for each city type.
@@ -25,20 +25,20 @@ The total number of drivers for each city type.
 
 ### Box-and-Whisker Plots:
 * The number of rides for each city type are seen in Fig 2.
-    * ![Fig 2.]
+    * ![Fig 2.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig2.png)
     * An outlier was identified in the urban city.
 * The fares for each city type are seen in Fig 3.
-    * ![Fig 3.]
+    * ![Fig 3.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig3.png)
 * The number of drivers for each city type are seen in Fig 4.
-    * ![Fig 4.]
+    * ![Fig 4.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
 ### Pie Charts:
 * Fig 5 is the percent of total fares. 
-    * ![Fig 5.]
+    * ![Fig 5.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig5.png)
 * Fig 6 is the percent of total rides.
-    * ![Fig 6.]
+    * ![Fig 6.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig6.png)
 * Fig 7 is the percent of total drivers.
-    * ![Fig 7.]
+    * ![Fig 7.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 # Analysis:
 The goal is to analyze the total weekly fare data to summarize how city types differ. These differences will be used to impact the decisions at Pyber.
