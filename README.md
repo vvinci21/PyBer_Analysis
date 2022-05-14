@@ -44,9 +44,7 @@ The total number of drivers for each city type.
 The goal is to analyze the total weekly fare data to summarize how city types differ. These differences will be used to impact the decisions at Pyber.
 
 ## Results: 
-Table 1 and Total Fare by City Type are a summary of the ride-share data from January to early May 2019.
-![Table 1 Pyber Summary]
-![Total Fare by City Type]
+![Total Fare by City Type](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 A general trend is that the total fares increase by week as the seasons change from winter to spring. There is also an increase in total fares for the city types during the spring holidays.
 The critical difference between the ride-share data for each city type is volume. Urban cities have the most rides, divers, and total fares. Suburban cities have less than half of the total rides and one-fifth of the number of drivers in urban cities. However, suburban cities still manage to earn around half of the total fares that urban cities did, and the average fare earned per driver is double the average fare made per driver in urban cities. Rural cities have the lowest rides, drivers, and total fare, but the average fare per ride and driver is the highest. This suggests that while rural riders are infrequently using the service but spending more per ride.
 
