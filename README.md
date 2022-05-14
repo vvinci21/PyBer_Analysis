@@ -25,20 +25,20 @@ The total number of drivers for each city type.
 
 ### Box-and-Whisker Plots:
 * The number of rides for each city type are seen in Fig 2.
-    * ![Fig 2.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig2.png)
+    ![Fig 2.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig2.png)
     * An outlier was identified in the urban city.
 * The fares for each city type are seen in Fig 3.
-    * ![Fig 3.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig3.png)
+    ![Fig 3.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig3.png)
 * The number of drivers for each city type are seen in Fig 4.
-    * ![Fig 4.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig4.png)
+    ![Fig 4.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
 ### Pie Charts:
 * Fig 5 is the percent of total fares. 
-    * ![Fig 5.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig5.png)
+    ![Fig 5.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig5.png)
 * Fig 6 is the percent of total rides.
-    * ![Fig 6.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig6.png)
+    ![Fig 6.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig6.png)
 * Fig 7 is the percent of total drivers.
-    * ![Fig 7.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig7.png)
+    ![Fig 7.](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 # Analysis:
 The goal is to analyze the total weekly fare data to summarize how city types differ. These differences will be used to impact the decisions at Pyber.
