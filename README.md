@@ -1,6 +1,6 @@
 # PyBer_Analysis
 
-Use SciPy and NumPy to analyze rideshare data from January to early May of 2019 and use Matplotlib to create a compelling visualization. 
+Using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type. Submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 # Overview:
 The project goal was to analyze all the rideshare data from January to early May of 2019 and create compelling visualizations comparing the city types, urban, suburban, and rural.
 
