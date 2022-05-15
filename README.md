@@ -45,11 +45,11 @@ The goal is to analyze the total weekly fare data to summarize how city types di
 
 ## Results: 
 ![Total Fare by City Type](https://github.com/vvinci21/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
-A general trend is that the total fares increase by week as the seasons change from winter to spring. There is also an increase in total fares for the city types during the spring holidays.
-The critical difference between the ride-share data for each city type is volume. Urban cities have the most rides, divers, and total fares. Suburban cities have less than half of the total rides and one-fifth of the number of drivers in urban cities. However, suburban cities still manage to earn around half of the total fares that urban cities did, and the average fare earned per driver is double the average fare made per driver in urban cities. Rural cities have the lowest rides, drivers, and total fare, but the average fare per ride and driver is the highest. This suggests that while rural riders are infrequently using the service but spending more per ride.
+Total fares seem to increase as the seasons change from winter to spring. There is also an increase in total fares for the city types during the spring holidays.
+The main difference between the ride-share data for each city type is volume. Urban cities have the most drivers, rides, and total fares. Suburban cities have less than half of the total rides and even less the number of drivers than urban cities. However, suburban cities still earn around half of the total fares that of urban cities. The average fare earned per suburban driver is double the average fare made per driver in urban cities. Rural cities have the lowest rides, drivers, and total fare, but the average fare per ride and driver is the highest. This demonstrates supply and demands relationship to the fares. 
 
 ## Summary: 
 Based on the results of the summary, here are three recommendations to increase earnings.
-1. For urban cities, the amount of drivers is greater than the number of rides. Reducing the number of drivers will increase the average fare earned per driver.
-1. For suburban cities, the number of rides is greater than the number of drivers. Increasing the number of drivers may increase the number of rides and the number of fares earned.
-1. Changes made related to rural cities must be highly targeted. An increase in the total number of drivers does not translate to a rise in total rides or total fares for rural cities. Infrastructure issues related to internet access and widespread use of credit cards in rural America prevent ride-shares expansion. Car ownership is also higher in rural cities compared to suburban and urban cities. 
+* For urban cities, the amount of drivers is greater than the number of rides. Having less drivers will increase the average fare earned per driver.
+* For suburban cities, the number of rides is greater than the number of drivers. More drivers may increase the number of rides and the number of fares earned to meet demand.
+* The business case for rural cities is less appealing as more people own cars and are less likely to require ride sharing. Locations in rural cities are also more spread out and further apart leading to higher ride share prices. 
